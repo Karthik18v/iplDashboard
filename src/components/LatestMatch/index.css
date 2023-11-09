@@ -1,0 +1,24 @@
+/* Write your CSS here */
+
+.latest-match-card {
+  background-color: #1e293b;
+  padding: 10px;
+  border-radius: 10px;
+}
+.latest-match-logo-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+.latest-match-logo {
+  height: 150px;
+  margin: 10px;
+}
+.latest-match-details-info {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  font-style: bold;
+  font-weight: 600;
+}

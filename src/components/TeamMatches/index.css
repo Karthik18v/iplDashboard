@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.team-banner {
+  height: 30vh;
+  width: 100%;
+  align-self: center;
+}
+.team-matches-container {
+  background-color: #a4261d;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  color: white;
+}
+.recent-matches-list {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  justify-content: center;
+  align-items: flex-start;
+}

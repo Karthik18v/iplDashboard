@@ -1,0 +1,50 @@
+/* Write your CSS here */
+/* Write your CSS here */
+/* Write your CSS here */
+.list-item {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  align-content: center;
+  width: 460px;
+  height: 200px;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 5px;
+  padding: 10px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  text-decoration: none;
+}
+
+.link {
+  text-decoration: none;
+  align-items: center;
+}
+
+.image-url {
+  width: auto;
+  height: 85px;
+}
+
+.card-heading {
+  color: white;
+  font-size: 20px;
+  text-align: center;
+}
+.team-card-container {
+  display: flex;
+  text-decoration: none;
+  align-items: center;
+  background-color: #ffffff33;
+  margin: 10px;
+  padding: 10px;
+  border: 2px solid white;
+  border-radius: 5px;
+  width: 40vw;
+}
+
+.team-card-image {
+  height: 120px;
+  margin: 10px;
+}
